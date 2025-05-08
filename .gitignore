@@ -1,0 +1,60 @@
+# .NET
+bin/
+obj/
+
+# ASP.NET Core
+wwwroot/
+*.bak
+*.swp
+*.swo
+
+# Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# ASP.NET Core/Entity Framework Core migrations
+migrations/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# NuGet Packages
+/packages/
+
+# Project configuration
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+
+# npm dependencies
+node_modules/
+package-lock.json
+
+# Local database files
+*.db
+*.sqlite
+
+# JWT settings (já configurado)
+jwtsettings.json
